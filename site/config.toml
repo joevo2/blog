@@ -25,6 +25,6 @@ canonifyurls = true
   # facebookName = "Joel Yek"
   # linkedinName = "Joel Yek"
   # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
-  hideHUGOSupport = true
+  hideHUGOSupport = false
   [params.social]
     twitter = "joevo2"
