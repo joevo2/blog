@@ -1,5 +1,5 @@
 ---
-date: 2017-7-5T20:04:40.407Z
+date: 2017-07-05T20:04:40.407Z
 title: The First Post
 ---
 
