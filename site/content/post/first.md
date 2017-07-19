@@ -15,6 +15,7 @@ The main reason that I have started this blog is for it to serve as a public spa
 Originally, I wanted to just start a Medium blog instead of reinventing the wheel. Thanks to our dear beloved Prime Minister of Malaysia, Najib Razak. Medium, with its wonderful engineering blog post and inspiring article are DNS blocked in Malaysia. Yeah... of course I can by pass it with my Google DNS but my fellow Malaysian wouldn't be able to read it 😢
 
 Alternatives like the “self-hosted” Medium like blogging platform Ghost needs a proper server environment to run it. It would either cost like 5USD/month hosted by Ghost or free using Heroku but with all the troublesome stuff associated with it like setting up a brand new account as well as New Relic to ping it to ensure the blog doesn’t go to sleep every 30 min and taking up to a minute to wake up to serve you a humble post.
+
 #### The Tech Stack
 - Hugo 
 - GitHub for hosting the Hugo repo
@@ -25,6 +26,8 @@ My CTO in Vase.ai shared to us this [https://jamstack.org/](https://jamstack.org
 Here are some of the [example](https://jamstack.org/examples/) in shown in JAM Stack. 
 
 Then I started my journey on building my own version of it. I wanted a proper online presences where people can get all the information they want about me, by me. Instead of humiliating and adolescence silly post that I've scattered throughout the internet. 
+
+My CTO suggested to just pay for the hosted ghost but I was too cheapskate for that. Then he suggested surge and I remember someone recommended Netlify. Gave it a try and boom. 
 
 (Please forgive my bad grammar) 
 
