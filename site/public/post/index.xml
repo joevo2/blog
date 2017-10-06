@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Joel Yek</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Joel Yek</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 05 Jul 2017 20:04:40 +0000</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The First Post</title>
+      <link>/post/first/</link>
+      <pubDate>Wed, 05 Jul 2017 20:04:40 +0000</pubDate>
+      
+      <guid>/post/first/</guid>
+      <description>You are here either because you’ve been doing research about me or you have been browsing some old post in this blog because of an interesting article that I’ve posted. 😏
+This post will serve as an introduction on why and how (technical aspect) I started this blog.
+Why? The main reason that I have started this blog is for it to serve as a personal space. A space where I can write down my thoughts, coding related post or just about anything that I personally have interest on, be it AI or AR plus maybe a podcast of my own in the not too far future.</description>
+    </item>
+    
+  </channel>
+</rss>
