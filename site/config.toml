@@ -14,7 +14,7 @@ cover = "/uploads/2017/10/06/brandon-lam-Dd_7xDCuuUo (1).jpg"
 description = "Here is where I do my long form post, anything else tweet me at @joveo2 #react #reactnative #node #developer #anime"
 githubname = "joevo2"
 googleanalyticsuserid = "UA-5243219-9"
-hidehugosupport = false
+hidehugosupport = true
 logo = ""
 twittername = "joevo2"
 [params.social]
