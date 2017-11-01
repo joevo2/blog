@@ -1,10 +1,10 @@
 +++
 author = ""
-comments = true
+comments = false
 date = "2017-11-01T16:11:19+00:00"
 image = ""
 menu = ""
-share = true
+share = false
 slug = "dark-little-secret"
 tags = []
 title = "Dark Little Secret"
