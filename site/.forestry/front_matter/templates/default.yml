@@ -1,7 +1,7 @@
 ---
 pages:
-- post/dark-little-secret.md
 - post/chronic-procrastination.md
+- post/dark-little-secret.md
 hide_body: false
 fields:
 - name: date
