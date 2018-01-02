@@ -1,12 +1,12 @@
 +++
 author = ""
 comments = true
-date = "2017-10-09T10:23:13+00:00"
+date = "2018-01-02T18:23:13+08:00"
 image = ""
 menu = ""
 share = true
 slug = "post-title"
-tags = ["tag1", "tag2"]
+tags = []
 title = "I am a chronic procrastinator "
 
 +++
